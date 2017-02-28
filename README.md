@@ -46,7 +46,7 @@ Several model types were generated and compared.  The Random Forest model was se
 #Feature Importance
 The overall top 8 features influencing churn were determined to be:
 
-![Feature Importance](/FeatureImportance.png?raw=true "FeatureImportance")
+![Overall Feature Importance](/OverallFeatureImportance.png?raw=true "OverallFeatureImportance")
 
 But further analysis showed that these feature rankings were not consistent across the 3 cities. 
 
