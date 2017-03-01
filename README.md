@@ -1,7 +1,7 @@
 # Churn-Prediction
 NOTE since this project uses real data from a real ride share company, the company will be referred to as 'Company X' and the data will not be published. 
 
-#Problem: 
+#Problem 
   Company X has an issue with high churn rates. This project will: 
   - help identify what factors are the best predictors for retention.
   - offer suggestions on how to operationalize these new insights in customer retention marketing campaigns.
